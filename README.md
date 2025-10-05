@@ -1,5 +1,7 @@
 Smart Savings Manager
 
+DEMO : https://incomparable-florentine-201074.netlify.app/
+
 Project Overview
 
 Smart Savings Manager is a modern, full-stack web application built to empower users in managing their personal finances effortlessly. Whether you're a family head planning long-term savings, a student tracking EMIs, or a business owner seeking investment advice, this app provides intuitive tools for budgeting, financial calculations, investment exploration, and real-time chat support.
